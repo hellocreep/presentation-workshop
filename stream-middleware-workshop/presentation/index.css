@@ -1,0 +1,11 @@
+img {
+  width: 100%;
+}
+
+li {
+  text-align: left;
+}
+
+a:visited {
+  color: #ffffff;
+}

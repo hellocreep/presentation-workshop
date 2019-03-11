@@ -1,0 +1,32 @@
+{
+  "name": "stream-middleware-workshop",
+  "version": "1.0.0",
+  "description": "node stream middleware workshop",
+  "main": "index.js",
+  "scripts": {
+    "presentation": "cd presentation && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellocreep/stream-middleware-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hellocreep/stream-middleware-workshop/issues"
+  },
+  "homepage": "https://github.com/hellocreep/stream-middleware-workshop#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.2",
+    "connect": "^3.6.3",
+    "image-to-ascii": "^3.0.7",
+    "lodash": "^4.17.4",
+    "morgan": "^1.8.2",
+    "supertest": "^3.0.0"
+  }
+}
